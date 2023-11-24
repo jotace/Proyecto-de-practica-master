@@ -3,14 +3,14 @@ import './Listado.css';
 function Listado(props) {
   return (
     <div className="Listado">
-        <h3>Listado de elementos</h3>
+        <h3>Listado de Elementos</h3>
         <table cellpadding="5" border="1">
             <thead>
                 <tr>
-                    <th>ID</th>
-                    <th>Propiedad1</th>
-                    <th>Propiedad2</th>
-                    <th>Propiedad3</th>
+                    <th>Id</th>
+                    <th>Propiedad 1</th>
+                    <th>Propiedad 2</th>
+                    <th>Propiedad 3</th>
                 </tr>
             </thead>
             <tbody>
