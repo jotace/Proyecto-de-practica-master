@@ -4,7 +4,7 @@ function Listado(props) {
   return (
     <div className="Listado">
         <h3>Listado de elementos</h3>
-        <table>
+        <table cellpadding="5" border="1">
             <thead>
                 <tr>
                     <th>ID</th>
